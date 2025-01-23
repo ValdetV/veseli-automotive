@@ -1,2 +1,2 @@
 # veseli-automotive
-veseli-automotive repo
+va-repo
